@@ -5,7 +5,7 @@
   "type": "module",
   "private": true,
   "engines": {
-    "node": "^18.0.0"
+    "node": "^20.0.0"
   },
   "keywords": [
     "educandu"
@@ -18,7 +18,7 @@
     "url": "https://github.com/educandu/abcjs-soundfonts"
   },
   "devDependencies": {
-    "@educandu/dev-tools": "^11.2.0",
+    "@educandu/dev-tools": "^14.2.0",
     "del": "^7.1.0",
     "eslint": "^8.55.0",
     "eslint-plugin-import": "^2.29.0",
